@@ -1,4 +1,16 @@
-# $Id: README,v 1.4 2010/06/15 08:27:22 chabannf Exp $
+# ZoneCheck
+
+DNS testing tool intended to help solving misconfigurations or inconsistencies in DNS servers.
+
+Cloned from the original CVS repo at http://savannah.nongnu.org/projects/zonecheck/
+
+Usage info: https://linux.die.net/man/1/zonecheck
+
+----
+
+## Original README
+
+\# $Id: README,v 1.4 2010/06/15 08:27:22 chabannf Exp $
 
 Documentation about 'ruby' can be found at: http://www.ruby-lang.org/
 
