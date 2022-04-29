@@ -1,6 +1,6 @@
-Unofficial guide of RPM building
-*******************************
+# Unofficial guide of RPM building
 
+```sh
 unset CVSROOT
 pushd contrib/distrib
 sh release.sh $VERSION /tmp
@@ -11,4 +11,4 @@ cd zonecheck
 PREFIX=/usr ruby installer.rb  configure
 cd contrib/distrib/rpm
 sudo rpmbuild -bb zonecheck.spec
-
+```

@@ -2,7 +2,6 @@
 
 Documentation about 'ruby' can be found at: http://www.ruby-lang.org/
 
-
 The DNS is a critical resource for every network application, quite 
 important to ensure that a zone or domain name is correctly configured 
 in the DNS.
@@ -20,8 +19,8 @@ of a particular profile (for example you could create an RFC compliance
 checking profile).
 
 To install ZoneCheck from sources, please take a look at INSTALL file.
-To learn more about different versions of ZoneCheck you can see HISTORY
+To learn more about different versions of ZoneCheck you can see HISTORY.md
 and ChangeLog files.
 Details about license and copyrights see COPYING, GPL and CREDITS files. 
 
-More informations are available at www.zonecheck.fr
+More informations are available at http://www.zonecheck.fr.
